@@ -17,7 +17,7 @@ This a Tableau project on Customer analysis for a bike sharing company (Cyclisti
   
 ## Skills Demonstrated 
 
-Data cleaning, Data manipulation, filters, calculated fields, extract function,
+Data cleaning, Data manipulation, calculated fields, extract function
 
 ## Data Source
 
@@ -98,6 +98,21 @@ Conversely, our data reveals that annual members primarily rely on the **Kingsbu
 ![](stations.webp)
 
 *N.B: Null values in start_station_name were excluded*
+
+## Conclussions and Recommendations
+Our data analysis reveals a clear trend wherein casual riders demonstrate higher frequency of utilizing Cyclistic bikes compared to annual members. However, significant efforts are required to effectively persuade casual riders to transition into annual memberships.To achieve this ,I would recommend the following :
+
+1. Leveraging the insights from our data analysis on peak usage patterns among riders, we can implement a priority bike usage and parking policy tailored for annual members. This policy would grant annual members unrestricted access to the bikes throughout the day, ensuring their convenience during all hours. Simultaneously, casual riders would benefit from easy access to the bikes during off-peak hours, promoting a balanced distribution of bike availability.
+2. Offering attractive pricing plans and competitive rates that incentivize casual riders to commit to a longer commitments.
+   
+A marketing strategy that can be used to convert casual riders to annual members :
+
+1.  Launch referral programmes to encourage annual members to spread the word by offering incentives like free ride credits to both the referring member and the new member they bring in.
+2.  Streeter Drive & Grand Avenue bike station is mostly used by casual riders so the focus of advertising should be on promoting the advantages of annual membership to individuals in the vicinity of the Streeter Drive & Grand Avenue bike station, while marketing efforts should be directed towards weekends.
+    
+ **Additional remarks**
+ 
+ The presence of a unique user ID among riders may impact the marketing strategy. Analyzing the frequency of bike usage by riders can help determine whether they are primarily tourists or local community members who regularly use the bikes. Convincing a tourist to become a member may pose a significant challenge.
 
 
 
